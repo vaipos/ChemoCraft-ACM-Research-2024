@@ -5,3 +5,5 @@ brain_visualizations/
 brain_slices/
 
 *.png
+
+*.h5
