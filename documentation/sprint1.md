@@ -29,5 +29,3 @@
    - **Error Handling:** A try-except block helps address potential file system issues during directory creation or saving, ensuring that errors don’t halt processing.
 
 3. **Conclusion:** `savePNG` iterates over each slice, applies cropping, and saves each image (if it doesnt already exist).
-
-# You will not see the folders created since it is in .gitignore

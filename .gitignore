@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-brain_slices/
+# generated_images/
+models/
 .gitignore
